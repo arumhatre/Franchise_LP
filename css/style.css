@@ -331,7 +331,7 @@ a{text-decoration:none}
 .resultsImg img{width:90px}
 }
 .text-play-btn-img{width:30px!important;margin-right:10px!important}
-.popup-vimeo{display:ruby;color:#fff;font-weight:600}
+.popup-vimeo{display:flex;color:#fff;font-weight:600}
 .popup-vimeo:hover{text-decoration:none}
 #testimonilas_slider .owl-dots{display:none}
 #testimonilas_slider .owl-item img{width:100%}
